@@ -10,7 +10,7 @@ To run it:
 
 2)Make sure to have these libraries installed: tidyverse, shiny, shinydashboard, DT, plotly, sf, leaflet, tmap
 
-4)I used R to write the code - on RStudio
+3)I used R to write the code - on RStudio
 
 
 
